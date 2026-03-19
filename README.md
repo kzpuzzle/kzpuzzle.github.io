@@ -1,6 +1,7 @@
 # kzpuzzle.github.io
 
 [Jump to another page](second)
+[Jump to another page](third)
 
 Hello World
 This is my first ever github site
